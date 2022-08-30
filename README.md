@@ -8,6 +8,18 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 
 [Main GH Page](https://github.com/gadamc)
 
+## Quantum Information Science
+  * Research Scientist at University of Washington Quantum Defect Lab (Kai-Mei Fu Lab) 
+    * [Data Acquisition](https://github.com/gadamc/qt3-utils)
+    * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
+    * Other hardware control ([pulser](https://github.com/gadamc/qcsapphire), [piezostage](https://github.com/gadamc/nipiezeojenapy), [microwave source](https://github.com/gadamc/qt3RFSynthControl))
+  * QHack 2022 [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
+  * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
+  * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
+  * Coursera / University of St. Petersburg Intro to Quantum [my code](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
+  * [Personal Notes From Talks & Lectures](https://github.com/gadamc/qc_talks_and_lectures_notes/)
+
+
 ## Neutrinos & Dark Matter
 
   * [KData - Data Structure, Analysis Framework and Signal Processing Tools](https://github.com/gadamc/kdata) - for EDELWEISS III dark matter detection experiment, developed at Karlsruhe Inst. of Technology.
@@ -19,22 +31,10 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 
 ## Deep Learning
 
+  * [Founder of Seattle Deep Learning Meetup](https://www.meetup.com/Seattle-Deep-Learning/). [Group Projects](https://github.com/deepseattle/projects)
   * Stanford CS231n: https://github.com/gadamc/cs231n
   * https://github.com/gadamc/soundeffectsapp
-  * [Seattle Deep Learning Meetup Co-Founder](https://www.meetup.com/Seattle-Deep-Learning/). [Group Projects](https://github.com/deepseattle/projects)
   * Coursera([1](https://coursera.org/share/a7cc379a8625edbbaf6577c0a8e8f2f1), [2](https://coursera.org/share/36b46f31a1a27c394e50a17d14220e3e), [3](https://coursera.org/share/a80387adb9fd0b1ff401da9cd5a0c990))
-
-
-## Quantum Computing
-  * Research Scientist at University of Washington Quantum Defect Lab (Kai-Mei Fu Lab) 
-    * [Data Acquisition](https://github.com/gadamc/qt3-utils)
-    * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
-    * Other hardware control ([pulser](https://github.com/gadamc/qcsapphire), [piezostage](https://github.com/gadamc/nipiezeojenapy), [microwave source](https://github.com/gadamc/qt3RFSynthControl))
-  * QHack 2022 [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
-  * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
-  * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
-  * Coursera / University of St. Petersburg Intro to Quantum [my code](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
-  * [Personal Notes From Talks & Lectures](https://github.com/gadamc/qc_talks_and_lectures_notes/)
 
 
 ## Select Publications
@@ -68,7 +68,6 @@ todo: add links
   * Standard DS Python Stack: numpy, scipy, pandas, xgboost, etc
   * CouchDB (couchapp to monitor Muon Veto Detector at EDW III: https://github.com/gadamc/muonvetohv)
   * [RL course](https://coursera.org/share/b9a3f53b1b82e02c0aba89487713c16b)
-
 
 
 ## Education
