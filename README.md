@@ -45,6 +45,7 @@ todo: add links
   * Main SNO results (phases 1, 2, 3)
   * SNO Phase 3 Technical Papers
   * Persephone Radioactivity Database (https://github.com/gadamc/persephone)
+  * IBM + SETI Institute Deep Learning Algorithms for Anomolous Radio Signal Detection
 
 ## Courses Taught
 
