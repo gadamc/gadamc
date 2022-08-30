@@ -1,13 +1,12 @@
 # G. Adam Cox
 
-I am an experimental physicist (Ph.D. UW 2008), where my research has focused on
-the solar neutrino problem (Sudbury Neutrino Observatory) and direct dark matter
-detection (EDELWEISS). In 2013 I transitioned to industry and have been a
-data scientist at Cloudant, IBM and Porch. Recently, I've been learning about quantum computing.
+I am an experimental physicist (Ph.D. UW 2008), with research interest in neutrions (Sudbury Neutrino Observatory), direct dark matter
+detection (EDELWEISS), and quantum information sciences. In 2013 I transitioned to industry and have been a
+data scientist at Cloudant, IBM and Porch. Recently, I've returned to the lab, constructing microscopes and software for ODMR characterization of nitrogen-vacancy centers in diamond. 
 
-Below is a somewhat organized, though not exhaustive (due to proprietary work or forgetfulness), list of projects, courses, code, notes, etc., that I've worked on.
+Below is a somewhat organized, though not exhaustive (due to proprietary work or forgetfulness), list of projects, courses, code, notes, etc., that I've worked on throughout my professional career.
 
-## Neutrino & Dark Matter
+## Neutrinos & Dark Matter
 
   * [KData - Data Structure, Analysis Framework and Signal Processing Tools](https://github.com/gadamc/kdata) - for EDELWEISS III dark matter detection experiment, developed at Karlsruhe Inst. of Technology.
   * [Implementation of Optimal Filter / Wiener Filter for EDW III with Kdata](https://github.com/gadamc/optimalfilter, https://github.com/gadamc/kdata/blob/master/kpta/KOptimalFilter.cxx)
@@ -25,7 +24,10 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 
 
 ## Quantum Computing
-
+  * Research Scientist at University of Washington Quantum Defect Lab (Kai-Mei Fu Lab) 
+    * [Data Acquisition](https://github.com/gadamc/qt3-utils)
+    * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
+    * Other hardware control ([pulser](https://github.com/gadamc/qcsapphire), [piezostage](https://github.com/gadamc/nipiezeojenapy), [microwave source](https://github.com/gadamc/qt3RFSynthControl))
   * QHack 2022 [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
   * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
   * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
