@@ -2,9 +2,11 @@
 
 I am an experimental physicist (Ph.D. UW 2008), with research interest in neutrions (Sudbury Neutrino Observatory), direct dark matter
 detection (EDELWEISS), and quantum information sciences. In 2013 I transitioned to industry and have been a
-data scientist at Cloudant, IBM and Porch. Recently, I've returned to the lab, constructing microscopes and software for ODMR characterization of nitrogen-vacancy centers in diamond. 
+data scientist at Cloudant, IBM and Porch. Within the past two years, I've been spending my free time learning more about quantum information sciences, from algorithms and applications to the hardare. Recently, I've returned to the lab, constructing microscopes and software for ODMR characterization of nitrogen-vacancy centers in diamond at the University of Washington [Quantum Defects Lab](https://sites.google.com/uw.edu/optospintronics-lab/-/defects-in-diamond). 
 
 Below is a somewhat organized, though not exhaustive (due to proprietary work or forgetfulness), list of projects, courses, code, notes, etc., that I've worked on throughout my professional career.
+
+[Main GH Page](https://github.com/gadamc)
 
 ## Neutrinos & Dark Matter
 
