@@ -1,23 +1,25 @@
 # G. Adam Cox
 
-I am an experimental physicist (Ph.D. UW 2008), with research interest in neutrions (Sudbury Neutrino Observatory), direct dark matter
-detection (EDELWEISS), and quantum information sciences. In 2013 I transitioned to industry and have been a
-data scientist at Cloudant, IBM and Porch. Within the past two years, I've been spending my free time learning more about quantum information sciences, from algorithms and applications to hardare implementations. Recently, I've returned to the lab, constructing microscopes and software for characterization of nitrogen-vacancy centers in diamond at the University of Washington [Quantum Defects Lab](https://sites.google.com/uw.edu/optospintronics-lab/-/defects-in-diamond). Our near-term goal is the realization of a multi-qubit regsiter utilizing single NV centers and nearby 13C nuclei at cryogenic temperatures. 
+I am an experimental physicist (Ph.D. UW 2008), with research interest in quantum information sciences (algorithms and hardware),
+neutrinos (Sudbury Neutrino Observatory), direct dark matter
+detection (EDELWEISS). I also have extensive experience in industry building ML and AI tools for both scientific and business applications.
 
-Below is a somewhat organized, though not exhaustive (due to proprietary work or forgetfulness), list of projects, courses, code, notes, etc., that I've worked on throughout my professional career.
+Below is a somewhat organized, though not exhaustive (due to proprietary work or forgetfulness), list of projects, courses, code, notes, etc.
 
 [Main GH Page](https://github.com/gadamc)
 
 ## Quantum Information Science
-  * Research Scientist at University of Washington Quantum Defect Lab (Kai-Mei Fu Lab) 
-    * [Data Acquisition](https://github.com/gadamc/qt3-utils)
+  * Research Scientist at University of Washington [Quantum Defects Lab](https://sites.google.com/uw.edu/optospintronics-lab/-/defects-in-diamond) (Kai-Mei Fu Lab)
+    * [Quantum Diamond Processor / Quantum Light Microscope](https://sites.google.com/uw.edu/qt3-lab/projects) at [QT3 Lab](https://sites.google.com/uw.edu/qt3-lab/home)
+    * [Data Acquisition Systems Development](https://github.com/qt3uw/qt3-utils)
     * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
-    * Other hardware control ([pulser](https://github.com/gadamc/qcsapphire), [piezostage](https://github.com/gadamc/nipiezeojenapy), [microwave source](https://github.com/gadamc/qt3RFSynthControl))
-  * QHack 2022 [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
-  * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
-  * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
-  * Coursera / University of St. Petersburg Intro to Quantum [my code](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
-  * [Personal Notes From Talks & Lectures](https://github.com/gadamc/qc_talks_and_lectures_notes/)
+    * Other hardware control ([pulser](https://github.com/qt3uw/qcsapphire), [piezostage](https://github.com/qt3uw/nipiezeojenapy), [microwave source](https://github.com/qt3uw/qt3RFSynthControl))
+  * Algorithms and Software
+    * QHack 2022 [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
+    * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
+    * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
+    * Coursera / University of St. Petersburg Intro to Quantum [my code](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
+    * [MIT Coursework](https://drive.google.com/drive/folders/1esOT11y8qAv-sZGQWauRF7SYfibGlKJU?usp=share_link)
 
 
 ## Neutrinos & Dark Matter
@@ -45,7 +47,7 @@ todo: add links
   * Main SNO results (phases 1, 2, 3)
   * SNO Phase 3 Technical Papers
   * Persephone Radioactivity Database (https://github.com/gadamc/persephone)
-  * IBM + SETI Institute Deep Learning Algorithms for Anomolous Radio Signal Detection
+  * [IBM + SETI Institute Deep Learning Algorithms for Anomalous Radio Signal Detection](https://arxiv.org/abs/1803.08624)
 
 ## Courses Taught
 
