@@ -33,6 +33,7 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 
 ## Deep Learning
 
+  * [IBM + SETI Institute Deep Learning Algorithms for Anomalous Radio Signal Detection](https://arxiv.org/abs/1803.08624)
   * [Founder of Seattle Deep Learning Meetup](https://www.meetup.com/Seattle-Deep-Learning/). [Group Projects](https://github.com/deepseattle/projects)
   * Stanford CS231n: https://github.com/gadamc/cs231n
   * https://github.com/gadamc/soundeffectsapp
@@ -47,7 +48,6 @@ todo: add links
   * Main SNO results (phases 1, 2, 3)
   * SNO Phase 3 Technical Papers
   * Persephone Radioactivity Database (https://github.com/gadamc/persephone)
-  * [IBM + SETI Institute Deep Learning Algorithms for Anomalous Radio Signal Detection](https://arxiv.org/abs/1803.08624)
 
 ## Courses Taught
 
