@@ -11,6 +11,7 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 ## Quantum Information Science
   * Research Scientist at University of Washington [Quantum Defects Lab](https://sites.google.com/uw.edu/optospintronics-lab/-/defects-in-diamond) (Kai-Mei Fu Lab)
     * [Quantum Diamond Processor / Quantum Light Microscope](https://sites.google.com/uw.edu/qt3-lab/projects) at [QT3 Lab](https://sites.google.com/uw.edu/qt3-lab/home)
+    * [Nitrogen-Vacancy centers in diamond modeling](https://github.com/gadamc/nvmodels)
     * [Data Acquisition Systems Development](https://github.com/qt3uw/qt3-utils)
     * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
     * QT3 Lab hardware control ([pulser](https://github.com/qt3uw/qcsapphire), [piezostage](https://github.com/qt3uw/nipiezeojenapy), [microwave source](https://github.com/qt3uw/qt3RFSynthControl))
