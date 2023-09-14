@@ -27,13 +27,16 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
 ## Neutrinos & Dark Matter
 
   * Organizer: [First Topical Workshop of the HAP Dark Universe](https://edelweiss.cloudant.com/dmworkshop/_design/app/index.html)
-  * Principle Investigator KSETA (https://www.kseta.kit.edu/about-us.php)
+  * Principle Investigator [KSETA](https://www.kseta.kit.edu/about-us.php)
+  * Developer of [Radiopurity database](https://github.com/radiopurity/persephone)
   * [KData - Data Structure, Analysis Framework and Signal Processing Tools](https://github.com/gadamc/kdata) - for EDELWEISS III dark matter detection experiment, developed at Karlsruhe Inst. of Technology.
     * [Optimal / Wiener Filter](https://github.com/gadamc/kdata/blob/master/kpta/KOptimalFilter.cxx)
   * Sudbury Neutrino Observatory custom-built electronics modeling, calibration and detector commissioning. Digital signal processing for characterizations anomalous detectors. ([Ph.D. Dissertation](https://sno.phy.queensu.ca/papers/CoxMobrandDissertationFinalSubmission.pdf))  
 
-## Deep Learning
+## Maching Learning & Deep Learning
 
+  * Signal Classification at [Gridware](https://www.gridware.io) (proprietary: distinguishing event types that cause vibrational signals on utility poles for the purpose of prevening wildfires caused by power lines)
+  * Lead Data Scientist at [Porch Group](https://porch.com) (proprietary: mostly classification models to predict customer events for the purpose of measuring expected revenues of leads and customer lifetime values)
   * [IBM + SETI Institute Deep Learning Algorithms for Anomalous Radio Signal Detection](https://arxiv.org/abs/1803.08624)
   * [Founder of Seattle Deep Learning Meetup](https://www.meetup.com/Seattle-Deep-Learning/). [Group Projects](https://github.com/deepseattle/projects)
   * Stanford CS231n: https://github.com/gadamc/cs231n
@@ -66,7 +69,7 @@ todo: add links
 
 ## Other Experience & Tools
 
-  * Programming Languages: python, c/c++, objective-c, scala, java
+  * Programming Languages: python, C/C++, objective-c, scala, java
   * AWS, IBM Cloud / Watson Data Platform, Google Cloud experience
   * PyTorch, Apache Spark
   * Standard DS Python Stack: numpy, scipy, pandas, xgboost, scikit-learn, etc
