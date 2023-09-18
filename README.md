@@ -15,13 +15,14 @@ Below is a somewhat organized, though not exhaustive (due to proprietary work or
     * [Data Acquisition Systems Development](https://github.com/qt3uw/qt3-utils)
     * [Basic Experiments for community use](https://github.com/gadamc/qt3-default-experiments)
     * QT3 Lab hardware control ([pulser](https://github.com/qt3uw/qcsapphire), [piezostage](https://github.com/qt3uw/nipiezeojenapy), [microwave source](https://github.com/qt3uw/qt3RFSynthControl))
-  <!-- * Quantum Computing Experience -->
     * [Implementation of the projected Variational Quantum Dynamics algorithm with Pennylane](https://github.com/gadamc/uw_qx_pvqd_qhack2023/blob/main/quantumx_uw_team_writeup.pdf)
-    <!-- * [MIT Coursework](https://drive.google.com/drive/folders/1esOT11y8qAv-sZGQWauRF7SYfibGlKJU?usp=share_link) -->
-    * QHack 2022 notes [my code](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
-    * Xanadu Codebook [my code](https://github.com/gadamc/xanadu-cookbook-notes)
-    * IBM Quantum Challenge Fall 2021 [my code](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
-    * Coursera / University of St. Petersburg Intro to Quantum [my code](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
+
+  * QC coursework
+    * [MIT course 8.370x QIS 1, parts 1 & 2](https://drive.google.com/drive/folders/1esOT11y8qAv-sZGQWauRF7SYfibGlKJU?usp=share_link)
+    * QHack 2022 [notes / exercises](https://github.com/gadamc/QHack) ([certificate](qhack2022_cert.pdf))
+    * Xanadu Codebook [notes / exercises](https://github.com/gadamc/xanadu-cookbook-notes)
+    * IBM Quantum Challenge Fall 2021 [challenge solutions](https://github.com/gadamc/ibmquantumchallenge_fall2021) ([certificate](https://www.credly.com/badges/9d2cb41d-06bb-4856-b908-892c95b974b4?source=linked_in_profile))
+    * Coursera / University of St. Petersburg Intro to Quantum [notes / exercises](https://github.com/gadamc/coursera_intro_qc_stpetersburg)  ([certificate](https://www.coursera.org/account/accomplishments/certificate/RRRREK33UYNN))
 
 
 ## Neutrinos & Dark Matter
